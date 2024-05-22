@@ -1,0 +1,6 @@
+@t3sfixed_HostAddress = http://localhost:5015
+
+GET {{t3sfixed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
